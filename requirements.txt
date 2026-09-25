@@ -1,15 +1,5 @@
-requests
-beautifulsoup4
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-imbalanced-learn
-joblib
-jupyter
-sentence-transformers
 chromadb
+sentence-transformers
 langgraph
 langchain-core
 fastapi
